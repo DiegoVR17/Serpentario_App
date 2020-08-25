@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929570963259",
+    "firebase_url": "https://serpentarioapp-a76aa.firebaseio.com",
+    "project_id": "serpentarioapp-a76aa",
+    "storage_bucket": "serpentarioapp-a76aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929570963259:android:f769c9de4d444be5c2811e",
+        "android_client_info": {
+          "package_name": "com.example.serpentario_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929570963259-gscqm28knlmouqaqbtlokdhl509vvor3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0E54IlbIhBR0PlMi2hDF1AkLlw5xJD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929570963259-gscqm28knlmouqaqbtlokdhl509vvor3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
